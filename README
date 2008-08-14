@@ -1,0 +1,11 @@
+Urlize
+======
+
+This plugin ads a method to string objects named "urlize" it makes a string suitable to insertion into a URL, suitable for use as a permalink
+
+
+Example
+=======
+
+"Page Test #1".urlize
+>> "page-test-1"
